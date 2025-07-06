@@ -40,7 +40,7 @@ RedHawk is a real-time threat detection and alerting platform built using **Pyth
 
 ## 🧪 Getting Started
 
-📖 See the [`RUN_GUIDE.md`](./RUN_GUIDE.md) file for full instructions on how to:
+📖 See the [`RUN_GUIDE.md`](redhawk-threat-platform/RUN_GUIDE.md) file for full instructions on how to:
 
 - Generate logs
 - Detect threats
@@ -51,7 +51,7 @@ RedHawk is a real-time threat detection and alerting platform built using **Pyth
 
 ## 📫 Contact
 
-Built with 💻 by [Jenish Patel](https://github.com/jenishpatel7)
+Built with 💻 by [Jenish Patel](https://github.com/jenishpatel08)
 
 ---
 
